@@ -1,0 +1,82 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "nameFirst": "Jon",
+      "nameLast": "Duckett",
+      "emailAddress": "john.duckett@wiley.com"
+    },
+    {
+      "id": 2,
+      "nameFirst": "Rachel",
+      "nameLast": "Andrew",
+      "emailAddress": "randrew@sitepoint.org"
+    },
+    {
+      "id": 3,
+      "nameFirst": "Eric A.",
+      "nameLast": "Meyer",
+      "emailAddress": "emeyer@newriders.com"
+    },
+    {
+      "id": 4,
+      "nameFirst": "Ann",
+      "nameLast": "Boehm",
+      "emailAddress": "annb@murach.com"
+    },
+    {
+      "id": 5,
+      "nameFirst": "Charles",
+      "nameLast": "Babbage",
+      "emailAddress": "chuckieb@founders.org"
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "genre": "Business"
+    },
+    {
+      "id": 2,
+      "genre": "Condolences"
+    },
+    {
+      "id": 3,
+      "genre": "Congratulations"
+    },
+    {
+      "id": 4,
+      "genre": "Family"
+    },
+    {
+      "id": 5,
+      "genre": "Friendly"
+    }
+  ],
+  "letters": [
+    {
+      "authorId": 1,
+      "content": "This is a letter.",
+      "topicId": 2,
+      "recipientId": 2,
+      "date": "11/8/2021",
+      "id": 1
+    },
+    {
+      "authorId": 2,
+      "content": "Do you like Cheese Whiz? Spray tan? Fake eyelashes? That's what is Lorem Ipsum to many—it rubs them the wrong way, all the way. It's unreal, uncanny, makes you wonder if something is wrong, it seems to seek your attention for all the wrong reasons. Usually, we prefer the real thing, wine without sulfur based preservatives, real butter, not margarine, and so we'd like our layouts and designs to be filled with real words, with thoughts that count, information that has value.",
+      "topicId": 1,
+      "recipientId": 1,
+      "date": "5/5/2022",
+      "id": 2
+    },
+    {
+      "authorId": 4,
+      "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "topicId": 2,
+      "recipientId": 3,
+      "date": "5/5/2022",
+      "id": 3
+    }
+  ]
+}
